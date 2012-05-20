@@ -1,0 +1,7 @@
+After seeing question [1] and paper [2], I decided to play with some n-body simulations and experiment with cache behavior of them. The paper's really neat, cdheck it out.
+
+Requires LWJGL (http://lwjgl.org/)
+
+Sources:
+ [1] http://codereview.stackexchange.com/questions/7578/lock-free-cache-oblivious-n-body-algorithm
+ [2] http://software.intel.com/en-us/blogs/2010/07/01/n-bodies-a-parallel-tbb-solution-parallel-code-a-fresh-look-using-recursive-parallelism/
